@@ -5,7 +5,7 @@ Smart contract monitoring and alerts for EVM chains.
 Paste a contract address. SmartAlert collects its history, builds a baseline for every hour of the day and suggests rules with thresholds tested against the past month. You see how many times each rule would have fired before you turn it on.
 
 - **Networks:** Ethereum, BNB Chain, Base, Arbitrum. Polygon and Optimism coming soon.
-- **Alerts:** Telegram, Slack, Discord, webhooks, email.
+- **Alerts:** Telegram, Slack, Discord, PagerDuty, email, webhooks.
 - **No code:** no SDK, no redeploy. Verified contracts bring their ABI.
 - **Free plan:** 2 contracts, 3 rules, Telegram alerts.
 
